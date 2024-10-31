@@ -17,7 +17,7 @@ def get_token(data, proxies=None):
         "telegramId": str(user["id"]),
         "username": user["username"],
         "hash": data,
-        "referralCode": "ffd116",
+        "referralCode": "3c38c6",
         "photoUrl": "",
     }
 
