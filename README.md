@@ -3,14 +3,14 @@
 🔗 **Referral Link**: [PitchTalk](https://t.me/pitchtalk_bot/app?startapp=3c38c6)
 
 
-# TG-blum
+# TG-pitchtalk
 
 
 [![Join our Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shadowscripters)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShadowScripts1)
 
 # Table of Contents
-- [TG-blum](#TG-blum)
+- [TG-pitchtalk](#TG-pitchtalk)
 - [Warning](#warning)
 - [Available Features](#available-features)
 - [Registration](#registration)
